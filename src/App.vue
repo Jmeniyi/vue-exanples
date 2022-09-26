@@ -52,7 +52,7 @@
                 to="/FourthPrj"
                 class="btn btn-outline-secondary text-light"
                 aria-current="page"
-                >Fourth1 Project</router-link
+                >Fourth Project</router-link
               >
             </li>
           </ul>
